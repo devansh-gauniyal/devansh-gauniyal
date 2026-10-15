@@ -2,17 +2,21 @@
 
 **Software engineer building reliable backend systems, cloud applications, and applied AI tools.**
 
-I enjoy taking a problem from an unclear workflow to a working product: understanding the users, designing the data flow, shipping the application, and measuring whether it improved. My internship work has included an internal Java tool that ran about 30% faster, a JIRA-based team dashboard, and an Azure-hosted Angular/.NET application with performance and resilience improvements.
+I enjoy taking a problem from an unclear workflow to a working product: understanding the users, designing the data flow, shipping the application, and measuring whether it improved. My internship work has included a Java internal tool that ran about 30% faster, a JIRA-based team dashboard, and an Azure-hosted Angular/.NET application.
 
 [LinkedIn](https://www.linkedin.com/in/devansh-gauniyal-447a4327a/) · [Email](mailto:Devanshgauniyal951@gmail.com) · [LeetCode](https://leetcode.com/u/devansh_6161/) · [Résumé](Devansh_Gauniyal_Resume_Public.pdf)
 
 ## 🚀 Selected work
 
-| Project | What I built |
+| Project | What you'll find |
 | --- | --- |
-| [MarketPilot AI](https://github.com/devansh-gauniyal/marketpilot) | A Gemini-powered marketing agent with workspace memory, tool approval gates, rollback, SEO audits, GitHub pull-request proposals, and a Next.js dashboard. |
-| [ThinkSchool](https://github.com/devansh-gauniyal/thinkschool) | An Angular and ASP.NET Core quotes application deployed on Azure, with managed-identity API access, automated tests, and work on query performance and resilience. |
-| [DRS Speech](https://github.com/devansh-gauniyal/DRS-SPEECH) | Speech-emotion recognition work for a larger team prototype analyzing human behavior. |
+| [MarketPilot AI](https://github.com/devansh-gauniyal/marketpilot) | A Gemini-powered marketing agent with workspace memory, approval-gated tools, rollback, SEO audits, GitHub pull-request proposals, and a Next.js dashboard. |
+| [ThinkSchool](https://github.com/devansh-gauniyal/thinkschool) | C# and .NET engineering exercises from my ThinkBridge internship, organized as day-by-day tasks and pull requests. |
+| [DRS Speech](https://github.com/devansh-gauniyal/DRS-SPEECH) | Speech emotion recognition work in Python and Jupyter for a larger team prototype. |
+
+## 💼 Engineering experience
+
+At ThinkBridge, I worked on an Angular and ASP.NET Core quotes application deployed on Azure. My work included managed-identity API access, automated frontend and API tests, EF Core query optimization, caching, and resilient Azure Service Bus processing. One query's p99 latency improved from 215.8 ms to 2.55 ms. See my résumé for the full context.
 
 ## 🛠️ Tech stack
 
